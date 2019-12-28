@@ -28,10 +28,6 @@
   "dependencies": {
     "prefix": "^1.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/csci312a-s18/fp-rideshare.git"
-  },
   "author": "RedouaneFARAH",
   "bugs": {
     "url": "https://github.com/csci312a-s18/fp-rideshare/issues"
