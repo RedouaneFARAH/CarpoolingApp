@@ -17,17 +17,6 @@
     "server/node_modules"
   ],
   "keywords": [],
-  "contributors": [
-    "Mariana Echeverria <mecheverria@middlebury.edu>",
-    "Holley McShan <hmcshan@middlebury.edu>",
-    "Emilio Ovalles-Misterman <eomisterman@middlebury.edu>",
-    "Chris Fetterolf <cfetterolf@middlebury.edu>",
-    "Jocelyn Zemach <jzemach@middlebury.edu>",
-    "Kyle Schlanger <kschlanger@middlebury.edu>",
-    "Stephanie Castaneda <scastaneda@middlebury.edu>",
-    "Baptiste Garcin <bgarcin@middlebury.edu>",
-    "Anna Vasilchenko <avasilchenko@middlebury.edu>"
-  ],
   "license": "Apache-2.0",
   "devDependencies": {
     "concurrently": "^3.5.1",
@@ -43,7 +32,7 @@
     "type": "git",
     "url": "git+https://github.com/csci312a-s18/fp-rideshare.git"
   },
-  "author": "[Mariana Echeverria] <[marianaecheverria96@gmail.com]>",
+  "author": "RedouaneFARAH",
   "bugs": {
     "url": "https://github.com/csci312a-s18/fp-rideshare/issues"
   },
